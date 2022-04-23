@@ -43,10 +43,10 @@ const MainPage =()=>{
     // }
 
     return (
-        <>
+        <div className="main-page">
             <SharesList shares = {shares} handleShareClicked={handleShareClicked} />
             <SharesShow share={selectedShare} clicked={shareClicked} removeShare={removeShare} setClicked={setShareClicked}/>
-    </>
+        </div>
    
     )
 }

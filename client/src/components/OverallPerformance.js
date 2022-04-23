@@ -5,7 +5,7 @@ const OverallPerformance = () => {
 
     return (
         <>
-            <h3>Overall Performance</h3>
+            <h3>Overall Performance GRAPH</h3>
         </>
     );
 }
