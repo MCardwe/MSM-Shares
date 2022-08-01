@@ -30,6 +30,8 @@ A local trader has come to you with a portfolio of cryptos. She wants to be able
 
 Your browser should open and direct you to the main page of the app!
 
+## Some pictures from tha app running
+
 ### Home - Page
 
 ![MSM home page](https://user-images.githubusercontent.com/78152844/182178843-c36f5a6e-d73f-47bd-98cb-b7592ccbdab8.png)
