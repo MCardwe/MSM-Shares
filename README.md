@@ -30,6 +30,15 @@ A local trader has come to you with a portfolio of cryptos. She wants to be able
 
 Your browser should open and direct you to the main page of the app!
 
+### Home - Page
+
+![MSM home page](https://user-images.githubusercontent.com/78152844/182178843-c36f5a6e-d73f-47bd-98cb-b7592ccbdab8.png)
+
+### Adding new share
+
+![MSN adding new_share](https://user-images.githubusercontent.com/78152844/182178993-a9696e03-928a-4a84-99d0-7f3de81746ea.png)
+
+
 #### Made by Max, Mate and Sofia!
 
 
